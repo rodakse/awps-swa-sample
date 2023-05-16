@@ -1,10 +1,10 @@
-{
+[
   {
     "name": "apiRuntime",
     "value": "node:16"
   }
   {
     "name": "jdbcUrl",
-    "value": "sample_jdbc_connection2"
+    "value": "sample_jdbc_connection3"
   }
-}
+]
