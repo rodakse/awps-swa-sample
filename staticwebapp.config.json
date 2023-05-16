@@ -1,5 +1,14 @@
 {
-  "platform": {
-    "apiRuntime": "node:16"
+  {
+    "name": "apiRuntime",
+    "value": "node:15"
+  },
+  {
+    "name": "APPINSIGHTS_INSTRUMENTATIONKEY",
+    "value": "84a89ff5-06ad-4e67-b632-4f2019bc020e"
+  },
+  {
+    "name": "APPLICATIONINSIGHTS_CONNECTION_STRING",
+    "value": "InstrumentationKey=84a89ff5-06ad-4e67-b632-4f2019bc020e;IngestionEndpoint=https://westeurope-5.in.applicationinsights.azure.com/;LiveEndpoint=https://westeurope.livediagnostics.monitor.azure.com/"
   }
 }
