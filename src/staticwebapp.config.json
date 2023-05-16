@@ -1,6 +1,5 @@
 {
-  {
-    "name": "apiRuntime",
-    "value": "node:16"
+  "platform": {
+    "apiRuntime": "node:16"
   }
 }
